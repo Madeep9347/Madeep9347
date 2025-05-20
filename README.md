@@ -1,5 +1,5 @@
 # Hi 👋, I'm Madeep Yampalaku
-## Automating Scalable and Secure Cloud Infrastructure⚡
+## Crafting Resilient & Scalable Cloud Solutions as a DevOps Engineer ⚙️⚡
 
 ### Connect with me:
 
