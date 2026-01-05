@@ -52,9 +52,13 @@ My portfolio includes:
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madeep9347&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeep9347&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=Madeep9347&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madeep9347&show_icons=true&theme=dracula&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeep9347&layout=compact&theme=dracula&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Madeep9347&theme=dracula&cache_seconds=86400)
+
 
 ---
 
