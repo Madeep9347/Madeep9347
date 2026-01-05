@@ -24,28 +24,58 @@ My portfolio includes:
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills & Technologies
 
-### ☁️ Cloud & Platforms
-- AWS (EKS, EC2, VPC, IAM, RDS, Lambda, S3, CloudWatch, CloudTrail)
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, VPC, EKS, ECS, S3, IAM, RDS, Lambda, Route 53, WAF)
+- Linux, Ubuntu
 
-### ☸️ Containers & Orchestration
-- Docker, Kubernetes, Helm, NGINX Ingress
-
-### 🏗️ Infrastructure as Code
-- Terraform, CloudFormation
-
-### 🔁 CI/CD & GitOps
-- Jenkins, GitHub Actions, ArgoCD, AWS CodePipeline
+### 🔁 CI/CD & DevOps Tools
+- Jenkins, Groovy
+- GitHub Actions
+- AWS CodePipeline, CodeBuild, CodeDeploy
+- ArgoCD
 
 ### 📊 Monitoring & Logging
-- Prometheus, Grafana, Loki, ELK Stack
+- Prometheus, Grafana
+- Loki, Promtail
+- ELK Stack
+- AWS CloudWatch, CloudTrail
 
-### 🔐 Security & DevSecOps
-- Trivy, SonarQube, IAM, Kubernetes Security Best Practices
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes
+- Helm
+- NGINX, Ingress Controller
 
-### 🖥️ Languages & OS
-- Python, Bash, Linux (Ubuntu)
+### 🏗️ Infrastructure as Code
+- Terraform
+- AWS CloudFormation
+
+### 🔐 Security & Compliance
+- Trivy
+- SonarQube
+- Nexus
+- IAM Policies
+- AWS Security Best Practices
+
+### 🧪 Databases
+- MySQL
+- PostgreSQL
+- Oracle
+- DynamoDB
+- MongoDB
+- MariaDB
+
+### 🧑‍💻 Scripting
+- Python
+- Bash
+- Shell Scripting
+
+### 🔧 Version Control
+- Git (GitHub, GitLab)
+- SVN
+
 
 ---
 
