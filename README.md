@@ -1,10 +1,14 @@
 # Hi 👋, I'm Madeep Yampalaku  
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Madeep9347&label=Profile%20views&color=0e75b6&style=flat" alt="Madeep9347" />
+</p>
+
 🚀 **DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Cloud Architecture**
 
 I’m a results-driven **DevOps Engineer with 3+ years of hands-on experience** designing, deploying, and operating **scalable, secure, and cost-optimized cloud platforms**.
 
-I specialize in **AWS, Kubernetes, Infrastructure as Code, CI/CD automation, observability, and DevSecOps practices**, with real production experience running workloads at scale.
+I specialize in **AWS, Kubernetes, Infrastructure as Code, CI/CD automation, observability, and DevSecOps practices**, with real-world production experience.
 
 ---
 
@@ -13,34 +17,34 @@ I specialize in **AWS, Kubernetes, Infrastructure as Code, CI/CD automation, obs
 
 My portfolio includes:
 - Production-grade **AWS & EKS architectures**
-- End-to-end **DevSecOps projects**
-- **CI/CD pipelines** with Jenkins, GitHub Actions & ArgoCD
-- **Monitoring, logging, security, and cost optimization**
-- Real-world project diagrams and deployments
+- End-to-end **DevSecOps & Kubernetes projects**
+- **CI/CD pipelines** using Jenkins, GitHub Actions & ArgoCD
+- **Monitoring, logging, security & cost optimization**
+- Real architecture diagrams and deployments
 
 ---
 
 ## 🧰 Tech Stack
 
-**Cloud & Platforms**
-- AWS (EKS, EC2, VPC, IAM, RDS, Lambda, S3, CloudWatch)
+### ☁️ Cloud & Platforms
+- AWS (EKS, EC2, VPC, IAM, RDS, Lambda, S3, CloudWatch, CloudTrail)
 
-**Containers & Orchestration**
+### ☸️ Containers & Orchestration
 - Docker, Kubernetes, Helm, NGINX Ingress
 
-**Infrastructure as Code**
+### 🏗️ Infrastructure as Code
 - Terraform, CloudFormation
 
-**CI/CD & GitOps**
+### 🔁 CI/CD & GitOps
 - Jenkins, GitHub Actions, ArgoCD, AWS CodePipeline
 
-**Monitoring & Logging**
+### 📊 Monitoring & Logging
 - Prometheus, Grafana, Loki, ELK Stack
 
-**Security**
-- Trivy, SonarQube, IAM, DevSecOps best practices
+### 🔐 Security & DevSecOps
+- Trivy, SonarQube, IAM, Kubernetes Security Best Practices
 
-**Languages & OS**
+### 🖥️ Languages & OS
 - Python, Bash, Linux (Ubuntu)
 
 ---
@@ -51,19 +55,20 @@ My portfolio includes:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madeep9347&show_icons=true&theme=dracula&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madeep9347&layout=compact&theme=dracula&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Madeep9347&theme=dracula&cache_seconds=86400)
-
+## 📌 Featured Work
+👉 Check pinned repositories below for:
+- Production-grade Amazon EKS using Terraform  
+- Kubernetes DevSecOps three-tier applications  
+- CI/CD automation & observability projects  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 - 🌐 Portfolio: https://madeep.online  
 - 💼 LinkedIn: https://www.linkedin.com/in/madeep-yampalaku-a3bbab24b/  
 - 💻 GitHub: https://github.com/Madeep9347  
-- 📧 Email: madeep9347@gmail.com
+- 📧 Email: madeep9347@gmail.com  
+
+---
+
+⭐ *Always learning. Always improving. Building reliable cloud systems.*
